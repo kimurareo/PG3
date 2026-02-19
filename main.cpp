@@ -8,6 +8,7 @@
 
 const char kWindowTitle[] = "CSV Map Loader";
 
+
 /// ===== 共有データ =====
 std::vector<std::vector<int>> mapData;
 bool isLoaded = false;
